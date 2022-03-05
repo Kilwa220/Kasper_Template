@@ -507,7 +507,7 @@ NYC <br />123-4567-890<br />USA</address></div></div></div></section><!-- END CO
     position: relative;
     top: -10px;
     left: -3px;
-    color: black
+    color: white
 }
 .quote .container q::after {
     font-family: "Font Awesome 6 Free";
@@ -517,7 +517,7 @@ NYC <br />123-4567-890<br />USA</address></div></div></div></section><!-- END CO
     position: relative;
     top: -10px;
     right: -3px;
-    color: black
+    color: white
 }
 @media (max-width: 767px) {
     .quote .container q {
